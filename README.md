@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sina-Nb
-- 👀 I’m interested in HDL, EmbeddedSystems and DeepLearning
-- 🌱 I’m currently learning VerilogHDL and C#
-- 💞️ I’m looking to collaborate on FPGA Projects
+- 👋 Hi, I’m @Sina-NB
+- 👀 I’m interested in HDL, EmbeddedSystems, WebDevelopment and DeepLearning
+- 🌱 I’m currently learning WebDevelopment
 - 📫 How to reach me -> Linkedin:Sina Nabigol
 
 <!---
