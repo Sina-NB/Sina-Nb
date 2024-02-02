@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sina-NB
-- 👀 I’m interested in HDL, EmbeddedSystems, WebDevelopment and DeepLearning
+- 👀 I’m interested in HDL, EmbeddedSystems, WebApplications and DeepLearning
 - 📫 How to reach me -> Linkedin:sina-nabigol
 
 <!---
